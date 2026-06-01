@@ -26,3 +26,24 @@ repeat(auto-fit,minimax(250px,1fr)  )  ;
 
 
 }
+
+
+.imagem img  {      
+
+
+
+width: 50%;
+
+
+max-width: 100px;  
+
+
+
+height: auto;
+
+justify-self: center ;
+
+
+}
+
+
